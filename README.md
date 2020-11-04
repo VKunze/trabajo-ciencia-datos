@@ -1,7 +1,7 @@
 # trabajo-ciencia-datos
 
 # datos del cliente:
-1 – age: edad 
+1 – age: edad
 2 - job : tipo de trabajo -> categorica nominal (cuantas categorias hay?, una col por categoria + top k)
 3 - marital : estado civil -> categorica nominal (asignar un numero a cada categoría)
 4 – education: nivel educativo -> categorica ordinal (asignar un numero a cada categoría, ver como hacer con unknowns)
